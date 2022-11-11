@@ -3,7 +3,7 @@
 
 > Aqui ficam os arquivos de apoio da sua aula
  ---
- 
+ Aula do dia 10/11/2022 - Fork, Clonagem local e mudanças.
  ### Tipos de Arquivo
  - html (.html)
  - javascript (.js)
